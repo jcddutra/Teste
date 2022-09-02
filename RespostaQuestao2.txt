@@ -1,0 +1,7 @@
+
+
+Resposta Questão 2
+1)Criar atributo na class Portifolio e seu tipo
+2)Criar input para entrada de dados
+3)Criar o campo quando adiciona a na lista.
+3)Colocarcondição para exibir a saida
